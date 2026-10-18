@@ -1,0 +1,9 @@
+<resources>
+    <color name="ink">#F3F6F4</color>
+    <color name="surface">#111815</color>
+    <color name="surface_raised">#18211D</color>
+    <color name="accent">#65D49A</color>
+    <color name="accent_dark">#092A1A</color>
+    <color name="muted">#9CAC9F</color>
+    <color name="danger">#FF8A80</color>
+</resources>
